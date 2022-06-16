@@ -6,7 +6,7 @@ import {Dashboard} from "./modules/index"
 function App() {
   return (
     <div>
-      <Dashboard />
+      {/* <Dashboard /> */}
     </div>
   );
 }
